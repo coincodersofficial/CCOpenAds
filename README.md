@@ -23,7 +23,7 @@ dependencyResolutionManagement {
     }
 }
 ```
-> Step 2. Add the dependency, always use latest versions <a href="https://developers.google.com/admob/android/quick-start">Admob Ads</a>
+### Step 2. Add the dependency, always use latest versions <a href="https://developers.google.com/admob/android/quick-start">Admob Ads</a>
 
 ```
 dependencies {
@@ -31,7 +31,7 @@ dependencies {
 		implementation 'com.google.android.gms:play-services-ads:22.4.0'
 	}
 ```
-> Step 3. Create a MyApplication class extends with Application
+### Step 3. Create a MyApplication class extends with Application
 ```
 public class MyApplication extends Application {
     @Override   
@@ -46,7 +46,7 @@ public class MyApplication extends Application {
 
 }
 ```
-> Step 4. Add these in Manifest File
+### Step 4. Add these in Manifest File
 ```
 <manifest ...
 
@@ -67,3 +67,15 @@ public class MyApplication extends Application {
 </application>
 </manifest>
 ```
+## Requirements
+
+Before using this library, please ensure that your project meets the following requirements:
+
+- Minimum Android SDK: CCOpenAds requires a minimum sdk 23 or high.
+- Compile Android SDK: CCOpenAds requires a minimum java version 8.
+
+
+
+### Disclaimer
+
+This is not an official Google product.
