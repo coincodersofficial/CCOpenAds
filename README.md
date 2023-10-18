@@ -1,6 +1,9 @@
 # CCOpenAds
 Admob Open Ad
-
+<p align="left"><a href="https://github.com/YourUsername/YourRepository/releases/tag/v1.0.0">
+    <img alt="Version" src="https://img.shields.io/badge/version-v1.0.0-EB780E.svg">
+  </a></p>
+ 
 CCOpenAds is a powerful library that provides an easy way to integrate Admob Open Ads into your Android applications. This library simplifies the process of integrating the Admob Open Ad, allowing you to monetize your apps efficiently.
 <p align="center">
   <img src="https://github.com/coincodersofficial/CCOpenAds/blob/master/Admob_open_Ad_image.jpg" height="640" alt="Coin Coders">
